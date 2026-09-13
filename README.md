@@ -12,3 +12,5 @@ i will update this after patch in unity code or add new detections
 
 a game infested with cheaters will stop them immediately :x: 
 as always stop those cheaters!
+
+![Downloads](https://img.shields.io/github/downloads/Shadee-s3/EASY-ANTI-CHEAT-Unity-apk-/total)
